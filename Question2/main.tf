@@ -1,3 +1,5 @@
+## 目前都是使用aws cdk 在管理 IAC 這一塊,terraform不是很熟悉,
+## 根據自己的經驗以及網路上的資訊撰寫的 config 再麻煩多多指教.
 terraform {  
   required_providers {  
     aws = {  
